@@ -3,6 +3,7 @@ body {
     color: rgb(249, 249, 249);
     text-align: center;
     font-family: "Happy Monkey", system-ui;
+    background: linear-gradient(lightskyblue, rgb(242, 87, 232));
 }
 
 
@@ -87,12 +88,12 @@ h4 {
     height: 200px;
 }
 
-.underline {
-
-    font-size: 20px;
-    text-decoration: underline;
-   
-}
 a {
-  color: white;
+    color: white;
+}
+
+.footer {
+    font-style: italic;
+    width: 400px;
+    margin: 40px auto 20px;
 }
